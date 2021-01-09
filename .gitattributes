@@ -1,0 +1,5 @@
+Frameworks/FirebaseCore.xcframework/ios-arm64_armv7/FirebaseCore.framework/FirebaseCore filter=lfs diff=lfs merge=lfs -text
+Frameworks/FirebaseCore.xcframework/ios-arm64_i386_x86_64-simulator/FirebaseCore.framework/FirebaseCore filter=lfs diff=lfs merge=lfs -text
+Frameworks/FirebaseFirestore.xcframework/ios-arm64_armv7/FirebaseFirestore.framework/FirebaseFirestore filter=lfs diff=lfs merge=lfs -text
+Frameworks/FirebaseFirestore.xcframework/ios-arm64_i386_x86_64-simulator/FirebaseFirestore.framework/FirebaseFirestore filter=lfs diff=lfs merge=lfs -text
+Frameworks/FirebaseFirestore.xcframework/macos-arm64_x86_64/FirebaseFirestore.framework/Versions/A/FirebaseFirestore filter=lfs diff=lfs merge=lfs -text
